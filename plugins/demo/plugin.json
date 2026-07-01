@@ -1,0 +1,6 @@
+{
+  "name": "demo-pulled-plugin",
+  "description": "A stand-in Nika first-party plugin delivered into the VM over the controlled egress path. In production this is secret cloud-pulled code; here it proves the pull mechanism end-to-end.",
+  "version": "0.0.1",
+  "marker": "NIKA-VM-HIDDEN-ASSET-7f3a91c2"
+}
